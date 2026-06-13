@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@theme {
+  --color-charcoal-50: #f7f7f8;
+  --color-charcoal-100: #eeeef0;
+  --color-charcoal-200: #d9d9de;
+  --color-charcoal-300: #b8b8c1;
+  --color-charcoal-400: #91919e;
+  --color-charcoal-500: #767683;
+  --color-charcoal-600: #5f5f6b;
+  --color-charcoal-700: #4d4d57;
+  --color-charcoal-800: #43434a;
+  --color-charcoal-900: #3a3a41;
+  --color-charcoal-950: #1a1a1e;
+  --color-amber-50: #fffbeb;
+  --color-amber-100: #fef3c7;
+  --color-amber-200: #fde68a;
+  --color-amber-300: #fcd34d;
+  --color-amber-400: #fbbf24;
+  --color-amber-500: #f59e0b;
+  --color-amber-600: #d97706;
+  --color-amber-700: #b45309;
+  --color-amber-800: #92400e;
+  --color-amber-900: #78350f;
+
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'Playfair Display', Georgia, serif;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #3a3a41 transparent;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-charcoal-950);
+  color: var(--color-charcoal-100);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: var(--color-amber-500);
+  color: var(--color-charcoal-950);
+}
+
+@keyframes slide-in-right {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+@keyframes slide-out-right {
+  from { transform: translateX(0); }
+  to { transform: translateX(100%); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse-subtle {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.85; }
+}
+
+@keyframes skeleton-loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+@keyframes bell-ring {
+  0% { transform: rotate(0); }
+  15% { transform: rotate(15deg); }
+  30% { transform: rotate(-15deg); }
+  45% { transform: rotate(10deg); }
+  60% { transform: rotate(-10deg); }
+  75% { transform: rotate(5deg); }
+  100% { transform: rotate(0); }
+}
+
+@utility animate-slide-in-right {
+  animation: slide-in-right 0.3s ease-out;
+}
+
+@utility animate-slide-out-right {
+  animation: slide-out-right 0.3s ease-in;
+}
+
+@utility animate-fade-in {
+  animation: fade-in 0.3s ease-out;
+}
+
+@utility animate-fade-in-up {
+  animation: fade-in-up 0.4s ease-out;
+}
+
+@utility animate-pulse-subtle {
+  animation: pulse-subtle 2s ease-in-out infinite;
+}
+
+@utility animate-bell-ring {
+  animation: bell-ring 0.5s ease-in-out;
+}

@@ -1,0 +1,176 @@
+[2m07:41:32[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:41:35[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:42:25[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:42:33[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:42:33[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:42:51[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:44:30[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:46:14[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:46:37[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:49:01[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:51:26[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:51:36[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:53:41[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:54:39[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:54:41[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
+[2m07:54:42[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mError[22m: supabaseUrl is required.
+[39m > validateSupabaseUrl node_modules/@supabase/supabase-js/dist/index.mjs:405:24
+ > new SupabaseClient node_modules/@supabase/supabase-js/dist/index.mjs:645:18
+ > createClient node_modules/@supabase/supabase-js/dist/index.mjs:872:8
+ > src/lib/supabase.js:6:24
+    4  |  const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || ''
+    5  |  
+    6  |  export const supabase = createClient(supabaseUrl, supabaseAnonKey)
+       |                          ^
+    7  |  
+
