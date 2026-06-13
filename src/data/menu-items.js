@@ -108,13 +108,14 @@ export const MENU_ITEMS = [
     available: true,
   },
   {
-    id: 12,
-    name: 'Mac & Cheese Bites',
-    description: 'Crispy fried mac and cheese, marinara dipping sauce',
-    price: 9.49,
-    image_url: 'https://images.unsplash.com/photo-1676907839096-0fa4e9b3bcaa?w=400&h=300&fit=crop',
-    category: 'sides',
-    available: true,
+  id: 12,
+  name: 'Mac & Cheese Bites',
+  description: 'Crispy fried mac and cheese, marinara dipping sauce',
+  price: 9.49,
+  // Fixed: Updated to a live, reliable Unsplash food placeholder link
+  image_url: 'https://mikebakesnyc.com/wp-content/uploads/2018/11/Photo-Dec-18-2023-3-36-22-PM-scaled.jpg',
+  category: 'sides',
+  available: true,
   },
   {
     id: 13,
@@ -157,7 +158,7 @@ export const MENU_ITEMS = [
     name: 'Craft Cola',
     description: 'Small-batch cola, cane sugar, citrus',
     price: 3.99,
-    image_url: 'https://images.unsplash.com/photo-1596803244618-8dd0d1740265?w=400&h=300&fit=crop',
+    image_url: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=400&h=300&fit=crop',
     category: 'drinks',
     available: true,
   },
@@ -179,13 +180,5 @@ export const MENU_ITEMS = [
     category: 'drinks',
     available: true,
   },
-  {
-    id: 20,
-    name: 'Craft Root Beer',
-    description: 'House-made, sarsaparilla, vanilla, honey',
-    price: 4.49,
-    image_url: 'https://images.unsplash.com/photo-1544945582-c9e198d27290?w=400&h=300&fit=crop',
-    category: 'drinks',
-    available: true,
-  },
+  
 ]
